@@ -1,8 +1,10 @@
 {
   "name": "mono-expenses",
-  "private": true,
   "version": "1.0.0",
+  "description": "Minimalist expense tracking web application inspired by Apple and Nothing OS design language.",
+  "private": true,
   "type": "module",
+  "homepage": "https://atharva126.github.io/Expense_tracker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
